@@ -58,6 +58,7 @@ void solve(){
     int n;
     cin>>n;
     cout<<n * n;
+    //jhdjgdhkbj
 }
     
 int main(){
