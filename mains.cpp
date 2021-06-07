@@ -56,6 +56,7 @@ long long binpow(long long a, long long b, long long MOD) {
     
 void solve(){
     cout<<"hello world!"<<"\n";
+    
 }
     
 int main(){

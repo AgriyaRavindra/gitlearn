@@ -57,8 +57,8 @@ long long binpow(long long a, long long b, long long MOD) {
 void solve(){
     int n;
     cin>>n;
-    int f=1;
-    int t=1;
+    cout<<(n > 100) ? (n % 100) : n;
+    
     
 }
     
