@@ -58,7 +58,7 @@ void solve(){
     int n;
     cin>>n;
     cout<<(n > 100) ? (n % 100) : n;
-    
+    //kghjks
     
 }
     
